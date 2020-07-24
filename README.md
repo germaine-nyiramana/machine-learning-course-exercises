@@ -1,2 +1,2 @@
 # machine-learning-course-exercises
-My solutions to the Machine Learning Course from Coursera by Andrew Ng
+My solutions using Octave to the Machine Learning Course from Coursera by Andrew Ng
